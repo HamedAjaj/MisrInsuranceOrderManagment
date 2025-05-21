@@ -1,0 +1,6 @@
+@MisrInsuranceOrderManagment_HostAddress = http://localhost:5201
+
+GET {{MisrInsuranceOrderManagment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
